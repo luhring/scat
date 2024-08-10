@@ -33,7 +33,7 @@ Here are some examples of Scat streams:
        $C $Am $F $G
 
 ## Contributing
-We welcome contributions! Please see [CONTRIBUTING.md](contributing.md) for guidelines on how to contribute to the project.
+We welcome contributions! Please see [CONTRIBUTING.md](./CONTRIBUTING.md) for guidelines on how to contribute to the project.
 
 ## License
 This work is licensed under a [Creative Commons Attribution 4.0 International License][cc-by].

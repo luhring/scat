@@ -15,6 +15,10 @@ Thank you for your interest in contributing to the Scat specification! Your feed
 - **Consistency:** Do you notice any contradictions or inconsistencies in the rules or examples?
 - **Usability:** Can you see how this would be practical in real-world applications? Are there any potential pitfalls?
 
+## Code of Conduct
+
+Please note that this project is released with a [Contributor Code of Conduct](./CODE_OF_CONDUCT.md). By participating in this project, you agree to abide by its terms.
+
 ## License
 
 By contributing to Scat, you agree that your contributions will be licensed under the [Creative Commons Attribution 4.0 International License](https://creativecommons.org/licenses/by/4.0/).
